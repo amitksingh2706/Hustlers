@@ -1,0 +1,40 @@
+.container-fluid .Achievements {
+    background-color: black;
+    height: 800px;
+    width: 2500px;
+}
+
+.Achievements h3 {
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.Achievements h2 {
+    font-size: 30px;
+    font-weight: normal;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Achievements p {
+    font-size: 18px;
+    font-weight: normal;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Training {
+    height: 100px;
+}
+
+.nav-search {
+    flex-grow: 0;
+}
+
+.details {
+    border: solid black;
+    margin: 0px 5px 0px 5px;
+}
