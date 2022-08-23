@@ -1,0 +1,29 @@
+    body {
+        background-image: url(contact_back.jpg);
+        background-size: cover;
+    }
+    
+    .details-form {
+        margin-top: 3em;
+        margin-left: 20em;
+        margin-right: 15em;
+        box-shadow: 10px 10px 8px 10px #888888;
+        padding: 20px;
+        background-color: white;
+    }
+    
+    .details h2 {
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: italic;
+        font-weight: bold;
+    }
+    
+    @media screen and (max-width:375px) {
+        .details-form {
+            margin-top: 20px;
+            box-shadow: 4px 4px 2px 4px #888888;
+            padding: 5px;
+            background-color: white;
+        }
+    }
